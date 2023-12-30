@@ -1,0 +1,9 @@
+
+
+.event-details-custom{
+   display: flex;
+   flex-direction: row;
+}
+.text-sm-custom{
+   margin-left: 20px;
+}
